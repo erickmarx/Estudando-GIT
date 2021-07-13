@@ -8,4 +8,4 @@ Estudando Commit e Push
 
 [ProGIT](https://git-scm.com/book/pt-br/v2)
 
-[Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
+[Markdown](https://www.markdownguide.org/basic-syntax/#lists-1)
