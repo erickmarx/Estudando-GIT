@@ -9,3 +9,5 @@ Estudando Commit e Push
 [ProGIT](https://git-scm.com/book/pt-br/v2)
 
 [Markdown](https://www.markdownguide.org/basic-syntax/#lists-1)
+
+[Emojipedia](https://emojipedia.org)
